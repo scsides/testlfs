@@ -1,4 +1,4 @@
 [lfs]
-	url = https://code.usgs.gov/astrogeology/lfstest.git
+	url = https://code.usgs.gov/astrogeology/lfstest.git/info/lfs
 [remote "origin"]
 	lfsurl = https://code.usgs.gov/astrogeology/lfstest.git
